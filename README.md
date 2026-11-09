@@ -39,6 +39,7 @@ start time with the password set to "barb"
 ending time
 <img width="3769" height="2076" alt="kuva" src="https://github.com/user-attachments/assets/5c658f37-0fae-49a3-941d-d5c0c64d107a" />
 
+all together the bruteforce tookaround 12 minutes to run.
 
 command
 <img width="1875" height="205" alt="kuva" src="https://github.com/user-attachments/assets/be4a2fe7-b0c6-4143-ab3d-81e05b935341" />
